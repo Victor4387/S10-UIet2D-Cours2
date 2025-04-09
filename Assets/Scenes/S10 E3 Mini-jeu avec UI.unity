@@ -1287,7 +1287,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   forceMoteur: 2.5
   jeu: {fileID: 1276045972}
-  fxExplosion: {fileID: 0}
+  fxExplosion: {fileID: 3197984478857342186, guid: 7b3fd76fd1efbca4ab854dfd268f1c4c,
+    type: 3}
 --- !u!114 &1487197044
 MonoBehaviour:
   m_ObjectHideFlags: 0
